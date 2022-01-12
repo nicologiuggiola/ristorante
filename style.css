@@ -1,0 +1,20 @@
+h1{
+    color: crimson;
+    background-color: orange;
+    width: 50%;
+    height: 50px;
+    /* overflow-y: scroll; */
+    /* min-width: 300px;
+    max-width: 400px; */
+    /* height: 500px; */
+    margin: 20px;
+    padding: 20px;
+}
+
+.header-subtitle{
+    color: salmon;
+}
+
+#pippo{
+    color: seagreen;
+}
